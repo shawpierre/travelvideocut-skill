@@ -1,0 +1,7 @@
+interface:
+  display_name: "travelvideocut"
+  short_description: "Rename and cut travel videos."
+  default_prompt: "Use $travelvideocut to organize this travel video folder by content, date, and daily subtitled compilations."
+
+policy:
+  allow_implicit_invocation: true
